@@ -1,0 +1,19 @@
+{
+    "kullanici": {
+      "ad": "John Doe",
+      "yas": 30,
+      "egitim": {
+        "okul": "Üniversite",
+        "bolum": "Bilgisayar Bilimleri"
+      },
+      "hobiler": ["Seyahat", "Kitap Okuma", "Müzik Dinleme"]
+    },
+    "iletisim": {
+      "email": "john@example.com",
+      "telefon": "+1 123 456 7890",
+      "adres": {
+        "sehir": "New York",
+        "ulke": "ABD"
+      }
+    }
+  }
